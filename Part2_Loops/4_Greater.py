@@ -11,3 +11,7 @@
 # 4
 
 # Write your code here:
+
+number = int(input("Enter a number: "))
+for x in range(1, number):
+    print(x)
